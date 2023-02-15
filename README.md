@@ -56,7 +56,7 @@ Now you are real github pros 👷🏻‍♀️👷🏾‍♂️👩🏽‍💻�
 2. `git add script.sh`, `git commit -m 'your message'`, just like you know how to do. 😀
 3. No need to add a `remote`, the initial `git clone` command took care of that.
 4. So, only thing left is to `git push`. Do it! 🚀
-5. Final step: back on `https://github.com/YOUR_USERNAME/scpoproghw1`, click on _new pull request_ on the top right of the code box. Looks like this:
+5. Final step: back on `https://github.com/YOUR_USERNAME/scpoproghw1`, click on _Contribute_ button on the top right of the code box. Looks like this:
 ![](collaborate.png)
 6. After you created the PR, you can check whether my test script thinks you got the correct result but looking out for the green check mark ✅ 
 7. If you made a mistake you'll see a red cross instead ❌. you can look at the output of the testing server, fix your mistake (if any), prepare a new commit, and push again, exactly like before. For me it's failing right now:
