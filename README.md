@@ -13,10 +13,12 @@ Now you are real github pros 👷🏻‍♀️👷🏾‍♂️👩🏽‍💻�
 
 ### Setting up your copy of this repo: Create a *Fork*
 
-1. Towards the right of this page, search for the _Fork_ button. Click it. This will setup a copy of this repo on your own user space. Wait a moment. We will end up on _your_ github user space, at `YOUR_USERNAME/scpoproghw1`. Stay there.
-2. Let's get this repo onto your computer. Click the green button (`<> Code`) and copy the SSH URL (i.e. something like `git@github.com:YOUR_USERNAME/scpoproghw1.git`)
-3. open the terminal on your computer. where you type `bash` commands.
-4. choose a suitable location for your homeworks. I'll assume you choose to put them in `~/scpoproghw`. execute this:
+1. Towards the top right of this page, search for the _Fork_ button. 
+![](fork.png)
+2. Click it. This will setup a copy of this repo on your own user space. Wait a moment. We will end up on _your_ github user space, at `YOUR_USERNAME/scpoproghw1`. Stay there.
+3. Let's get this repo onto your computer. Click the green button (`<> Code`) and copy the SSH URL (i.e. something like `git@github.com:YOUR_USERNAME/scpoproghw1.git`)
+4. open the terminal on your computer. where you type `bash` commands.
+5. choose a suitable location for your homeworks. I'll assume you choose to put them in `~/scpoproghw`. execute this:
     ```bash
     mkdir -p ~/scpoproghw  # make that directory
     cd ~/scpoproghw # go there
