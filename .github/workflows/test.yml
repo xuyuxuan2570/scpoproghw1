@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: run script
-        run: bash ./hw1/hw1script.sh
+        run: bash ./script.sh
