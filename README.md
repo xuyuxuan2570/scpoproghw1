@@ -46,7 +46,7 @@ Now you are real github pros 👷🏻‍♀️👷🏾‍♂️👩🏽‍💻�
     /Users/floswald/git/ScPoProgrammingHW/scpoproghw1/script.sh: line 99: [: ==: unary operator expected
     wrong result :-(
     ```
-* ... informing us, the _currently_ this script is producing the wrong result 😉. Over to you now!
+* ... informing us, that _currently_ this script is producing the **wrong result** 😉. Over to you now!
 
 
 
